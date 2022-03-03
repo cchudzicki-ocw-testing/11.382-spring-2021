@@ -11,13 +11,13 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: another_sns_test.mp4
-uid: dca7434f-73d3-4743-9c22-c96d7558b70d
+uid: d27cfd05-6b45-4372-85c0-3711e7e061a4
 video_files:
-  video_captions_file: ''
-  video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_captions_file: courses/11-382-water-diplomacy-spring-2021/1BBotFVpE-Jg--X25nfYSvgfGisDCFHaq_transcript_webvtt
+  video_thumbnail_file: https://img.youtube.com/vi/AkxKp4-hPEs/default.jpg
+  video_transcript_file: courses/11-382-water-diplomacy-spring-2021/1BBotFVpE-Jg--X25nfYSvgfGisDCFHaq_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_id: ''
+  youtube_id: AkxKp4-hPEs
 ---
