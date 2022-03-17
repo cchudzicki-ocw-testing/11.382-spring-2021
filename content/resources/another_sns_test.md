@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/11-382-water-diplomacy-spring-2021/1BBotFVpE-Jg--X25nfYSvgfGisDCFHaq/another_sns_test.mp4
 file_type: video/mp4
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: another_sns_test.mp4
-uid: cb7f3013-8b3d-4d94-956a-97fc379e757c
+uid: a76bb9f8-504a-457b-b75f-1bc3385fa6f8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
