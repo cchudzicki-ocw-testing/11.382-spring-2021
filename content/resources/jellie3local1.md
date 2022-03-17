@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/11-382-water-diplomacy-spring-2021/1RxRDvHiKFR-QZ99GgZam2PiXRFCLJTLM/jellie3local1.mp4
 file_type: video/mp4
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: jellie3local1.mp4
-uid: a3311772-a046-47bc-97fe-18330b82dc8c
+uid: 2f912024-9bcf-4e8d-b55e-078ae7423e37
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
