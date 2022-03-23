@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: another_sns_test.mp4
-uid: a76bb9f8-504a-457b-b75f-1bc3385fa6f8
+uid: 9d45b448-21df-4ccf-87dd-1cdfac1bcf39
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
