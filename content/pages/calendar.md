@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section presents a schedule of course topics and assigned readings
+  for 11.382 Water Diplomacy
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 8362f5b1-ea90-385d-89b5-860742366818
 ---

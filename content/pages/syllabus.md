@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section presents the topics, prerequisites, and course policies
+  for 11.382 Water Diplomacy.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 8fbc95c7-eb9a-0ded-b0c9-021a5fb0bf03
 ---

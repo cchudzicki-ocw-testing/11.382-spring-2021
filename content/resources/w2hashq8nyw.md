@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-382-water-diplomacy-spring-2021/6b78fcaf7378c8cd7c5e94c506fd976b_w2HASHQ8nYw.srt
+file: /media/courses/11-382-water-diplomacy-spring-2021/6b78fcaf7378c8cd7c5e94c506fd976b_w2HASHQ8nYw.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 6b78fcaf-7378-c8cd-7c5e-94c506fd976b
